@@ -23,12 +23,21 @@
   <a href="https://linkedin.com/in/jesús-gustavo-mex-chan-919975201" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://GustavoMex18.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-and-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,git,discord,bots,raspberrypi,linux,powershell,unity" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,python,anaconda,c,cs,cpp,mysql,sqlite,stackoverflow,arduino" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <!--
 **GustavoMex18/GustavoMex18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
