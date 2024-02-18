@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GustavoMex18.GustavoMex18" />
+
 ### Hi there 👋
 
 <!--
