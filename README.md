@@ -29,15 +29,17 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-and-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Networks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,discord,bots,raspberrypi,linux,powershell,unity" />
+    <img src="https://skillicons.dev/icons?i=github,git,discord,bots,raspberrypi,linux,powershell,unity,klipper" />
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,python,anaconda,c,cs,cpp,mysql,sqlite,stackoverflow,arduino" /><br>
 </div>
 
 <br/>
 <hr/>
+
+
 
 <!--
 **GustavoMex18/GustavoMex18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
